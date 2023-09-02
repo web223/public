@@ -36,7 +36,7 @@ POAP Collection: https://poap.gallery/event/148645
 
 POAP Assigned to public wallet: https://app.poap.xyz/token/6776419
 
-Founding memembers' POAP collection: https://poap.gallery/event/148717
+Founding members' POAP collection: https://poap.gallery/event/148717
 
 POAP Assigned to public wallet: https://app.poap.xyz/token/6776422
 
