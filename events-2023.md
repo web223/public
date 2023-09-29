@@ -49,7 +49,7 @@ Venue: Amazon Web Services, Singapore
 ### Underground #6 2023-10-20  Web3 Basics: Decentralised Apps -- an evening workshop at AWS (#Underground #5)
 https://lu.ma/223-06
 
-Venue: Amazon Web Services, Singapore
+Venue: Amazon Web Services, Thailand
 
 #### Verifiable Signature
 Title: #Underground #6: Web3 Basics (Decentralised Apps)
