@@ -40,12 +40,26 @@ Founding members' POAP collection: https://poap.gallery/event/148717
 
 POAP Assigned to public wallet: https://app.poap.xyz/token/6776422
 
-
-## Index of upcoming events in 2023
-### Underground #5 2023-09-08  #RoadToToken2049: Blockchain Basics & Builder <> VC AMA
+### Underground #5 2023-09-14  RoadToToken 2049, VC <> Buidlers AMA
 https://lu.ma/223-5
 
-Venue: Venue: Amazon Web Services, 23 Church Street, Capital Square, Singapore
+Venue: Amazon Web Services, Singapore
 
-### Underground #6 2023-10-??  Blockchain Basiscs & dApps Primer
-Venue: Singapore - TBD
+
+### Underground #6 2023-10-20  Web3 Basics: Decentralised Apps -- an evening workshop at AWS (#Underground #5)
+https://lu.ma/223-06
+
+Venue: Amazon Web Services, Singapore
+
+#### Verifiable Signature
+Title: #Underground #6: Web3 Basics (Decentralised Apps)
+
+Address: 0x34d4aeee9333c7c3d1330b257551fd6599ec65f7
+
+Signature hash: 0xec3763dd2d64617b88ad64045d16fa7afbd07e45fdf5c102c01c0a3b462d8637001ec15f63fcca977693679743d6bb5a117a2962e4f973a92349891e1477a2fe1b
+
+https://etherscan.io/verifySig/25301
+
+POAP Collection: https://poap.gallery/event/
+POAP Assigned to public wallet: https://app.poap.xyz/token/
+
