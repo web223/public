@@ -62,6 +62,7 @@ Signature hash: 0xec3763dd2d64617b88ad64045d16fa7afbd07e45fdf5c102c01c0a3b462d86
 
 https://etherscan.io/verifySig/25301
 
-POAP Collection: https://poap.gallery/event/
+POAP Collection: https://poap.gallery/event/151227
+
 POAP Assigned to public wallet: https://app.poap.xyz/token/
 
