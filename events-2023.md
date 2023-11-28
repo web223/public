@@ -48,7 +48,7 @@ https://lu.ma/223-5
 Venue: Amazon Web Services, Singapore
 
 
-### Underground #6 2023-10-20  Web3 Basics: Decentralised Apps -- an evening workshop at AWS (#Underground #5)
+### Underground #6 2023-10-20  Web3 Basics: Decentralised Apps -- an evening workshop at AWS (#Underground #6)
 https://lu.ma/223-06
 
 Venue: Amazon Web Services, Thailand
@@ -63,6 +63,24 @@ Signature hash: 0xec3763dd2d64617b88ad64045d16fa7afbd07e45fdf5c102c01c0a3b462d86
 https://etherscan.io/verifySig/25301
 
 POAP Collection: https://poap.gallery/event/151227
+
+POAP Assigned to public wallet: https://app.poap.xyz/token/
+
+### Underground #7 2023-12-14  Web3 Basics: Decentralised Apps -- an evening workshop at Aelf (#Underground #7)
+https://lu.ma/223-06
+
+Venue: Aelf, Singapore
+
+#### Verifiable Signature
+Title: #Underground #7: Web3 Basics (Decentralised Apps)
+
+Address: 0x34d4aeee9333c7c3d1330b257551fd6599ec65f7
+
+Signature hash: 0x541675c85bcbfc613c6c84e5bf143c055a10c6d6ee6faefb50cfe46aa922cfa12472bdcf7b0c91ff56448812ab6bcb28e610ab21313be072398f83d9097d637f1b
+
+[https://etherscan.io/verifySig/25301](https://etherscan.io/verifySig/30141)
+
+POAP Collection: https://poap.gallery/event/
 
 POAP Assigned to public wallet: https://app.poap.xyz/token/
 
