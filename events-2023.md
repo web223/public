@@ -67,7 +67,7 @@ POAP Collection: https://poap.gallery/event/151227
 POAP Assigned to public wallet: https://app.poap.xyz/token/
 
 ### Underground #7 2023-12-14  Web3 Basics: Decentralised Apps -- an evening workshop at Aelf (#Underground #7)
-https://lu.ma/223-06
+https://lu.ma/223-07
 
 Venue: Aelf, Singapore
 
