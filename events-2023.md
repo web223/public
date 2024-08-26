@@ -85,7 +85,7 @@ POAP Collection: https://poap.gallery/event/
 POAP Assigned to public wallet: https://app.poap.xyz/token/
 
 ### Underground #8 2024-09-19  Web3 Basics: Closed door workshop (#Underground #7)
-https://lu.ma/223-08
+https://lu.ma/qlqug449
 
 Venue: TBC
 
