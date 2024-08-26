@@ -5,7 +5,7 @@ Current public address: 0x34d4aeee9333c7c3d1330b257551fd6599ec65f7
 
 Use https://etherscan.io/verifiedSignatures to verify signatures.
 
-## List of events in 2023
+## List of events
 
 ### Underground #1 2023-03-16  Journey to the DAO
 Venue: Workspace Central, Singapore
