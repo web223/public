@@ -78,9 +78,23 @@ Address: 0x34d4aeee9333c7c3d1330b257551fd6599ec65f7
 
 Signature hash: 0x541675c85bcbfc613c6c84e5bf143c055a10c6d6ee6faefb50cfe46aa922cfa12472bdcf7b0c91ff56448812ab6bcb28e610ab21313be072398f83d9097d637f1b
 
-[https://etherscan.io/verifySig/25301](https://etherscan.io/verifySig/30141)
+https://etherscan.io/verifySig/30141
 
 POAP Collection: https://poap.gallery/event/
 
 POAP Assigned to public wallet: https://app.poap.xyz/token/
+
+### Underground #8 2024-09-19  Web3 Basics: Closed door workshop (#Underground #7)
+https://lu.ma/223-08
+
+Venue: TBC
+
+#### Verifiable Signature
+Title: #Underground #8: Closed door workshop
+
+Address: 0x34d4aeee9333c7c3d1330b257551fd6599ec65f7
+
+Signature hash: 0xd4701b19ba75200b7754ff769992067a3a8eb1035f9b28de9f68bc4ccccfc5ac3a5713aaf4eb3b92fe88450c6383fc0adb9f04573a3976942c0e13e08d60f6851b
+
+https://etherscan.io/verifySig/256960
 
