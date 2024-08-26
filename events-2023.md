@@ -1,4 +1,4 @@
-# Index of Underground Events in 2023
+# Index of Underground Events
 https://w223.peatix.com/ for details on all upcoming events
 
 Current public address: 0x34d4aeee9333c7c3d1330b257551fd6599ec65f7
